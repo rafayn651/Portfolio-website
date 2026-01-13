@@ -47,5 +47,5 @@ export default defineConfig({
     },
   },
 
-  base: process.env.VITE_BASE_PATH ||"/My-Portfolio-WebSite",
+  base: process.env.VITE_BASE_PATH || "/",
 });
