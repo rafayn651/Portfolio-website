@@ -7,7 +7,7 @@ import { Link } from "wouter";
 import fypBuddyImage from "@assets/generated_images/FYPBuddy home.png";
 import ideaNestTechImage from "@assets/generated_images/IdeaNestTech home.png";
 import hsrSeedsImage from "@assets/generated_images/HSR_Seeds_ecommerce_homepage_d24a40ae.png";
-import portfolioImage from "@assets/generated_images/Portfoliohome.png";
+import portfolioImage from "@assets/generated_images/portfoliohome.png";
 import comingSoonImage from "@assets/generated_images/coming soon.jpg";
 
 const projects = [

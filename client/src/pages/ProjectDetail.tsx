@@ -12,7 +12,7 @@ import ideaNestTech3 from "@assets/generated_images/IdeaNestTechCourses.png";
 import hsrSeeds1 from "@assets/generated_images/HSR_Seeds_ecommerce_homepage_d24a40ae.png";
 import hsrSeeds2 from "@assets/generated_images/HSR_Seeds_product_page_086becbd.png";
 import hsrSeeds3 from "@assets/generated_images/HSR_Seeds_checkout_interface_2878180a.png";
-import portfolio1 from "@assets/generated_images/Portfoliohome.png";
+import portfolio1 from "@assets/generated_images/portfoliohome.png";
 import portfolio2 from "@assets/generated_images/portfolioAbout.png";
 import portfolio3 from "@assets/generated_images/PortfolioProjects.png";
 
